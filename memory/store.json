@@ -1,0 +1,7 @@
+{
+  "latest": "that my phone name is joko",
+  "phone_name": "joko",
+  "cross_device_test": "remembered_from_phone",
+  "tailscale_test": "set_from_tailscale_ip",
+  "phone_model": "Pixel 8"
+}
