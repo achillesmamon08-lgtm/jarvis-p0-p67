@@ -1,0 +1,18 @@
+{
+  "app": {
+    "darkMode": true,
+    "baseFontSize": 16
+  },
+  "feature": {
+    "mobileToolbar": true,
+    "paneType": "list"
+  },
+  "core": {
+    "vim": {
+      "enabled": false
+    }
+  },
+  "plugins": {
+    "autoPullDown": true
+  }
+}
